@@ -26,7 +26,5 @@ We have a requirement where we need update the latest USD exchange rates every d
 - Power BI always uses the most recent value, no more hardcoded conversions. 
 - About 30 minutes of time is saved, errors avoided, and stays up to date automatically.
 
-![GoogleSheet](https://docs.google.com/spreadsheets/d/1fTCmIBTpyF73XAcB2SWELN-6muApRiMSAFiJVoUQhOU/edit?usp=sharing)
-
 ![Outcome](Images/Screenshot%202026-11-12%20011849.png)
 ![Outcome](Images/Screenshot%202026-11-12%20011953.png)
